@@ -14,6 +14,6 @@ elif hobby=='2':
 
 elif hobby=='3':
     print('行 拜拜')
-3
+    
 else:
     print('这个行 有魄力')
