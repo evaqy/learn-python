@@ -1,6 +1,4 @@
-# learn-python
-## My python learning process
-
+# My python learning process
 :woman_technologist:Record python code and projects I wrote along the way
 
 ### Table of Content
