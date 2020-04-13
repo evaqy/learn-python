@@ -13,4 +13,9 @@ Python Basics
 5. list, dictionary
 6. for, while
 7. boolean operators
-8. 
+8. project-sign up & log in
+9. programming mindset
+10.function
+11.math function
+12.debug
+13.class
