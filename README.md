@@ -1,11 +1,11 @@
 # learn-python
-# My python learning process
+## My python learning process
 
 :woman_technologist:Record python code and projects I wrote along the way
 
-## Table of Content
+### Table of Content
 
-### Python Basics
+#### Python Basics
 1. print(), variable
 2. string, int, float, type()
 3. if(), elif(), else
