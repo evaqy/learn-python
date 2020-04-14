@@ -4,7 +4,6 @@ class Fruit:
     color = 'red'
     taste = 'sweet'
 
-
 class Round(Fruit):
     shape = 'round'
 
