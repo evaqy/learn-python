@@ -17,3 +17,4 @@
 11. math function
 12. debug
 13. class
+14. class inheritance & custom
