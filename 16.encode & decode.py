@@ -7,9 +7,7 @@ myfile.close()
 message = '哈喽，小伙伴们，大家好，今后我们要一起好好学习哦'
 message_utf = message.encode()
 
-myfile = open(r'text2.text','w')
+myfile = open(r'text2.txt','w')
 myfile.write(message)
 myfile.write(str(message_utf))
 myfile.close()
-
-
