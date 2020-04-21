@@ -11,13 +11,13 @@
 5. list, dictionary
 6. for, while
 7. boolean operators
-8. project-sign up & log in
+8. **project-sign up & log in**
 9. programming mindset
 10. function
 11. math function
 12. debug
 13. class
 14. class inheritance & custom
-15. project-class inheritance & custom
+15. **project-class inheritance & custom**
 16. encode & decode.py
 17. module
