@@ -24,5 +24,6 @@
 18. **project-sending gmail by python**
 19. **project-python basic summary**
 
-#### Web Crawler
-1. web crawler basic
+#### Web Scraping
+1. web scraping basic
+2. **project-my first web scraping**
