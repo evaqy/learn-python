@@ -9,5 +9,5 @@ bs_headers = BeautifulSoup(res_headers.text, 'html.parser')
 # 查找最小父级标签
 list_headers = bs_headers.find_all('div',class_='book-mulu')
 for header in list_headers:
-    with open('threekindoms.txt','a', encoding='utf-8') as file:
+    with open('threekingdoms.txt','a+', encoding='utf-8') as file:
         file.write(header.text)
