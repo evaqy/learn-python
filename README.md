@@ -29,3 +29,6 @@
 2. **project-my first web scraping-1**
 3. **project-my first web scraping-2**
 4. **project-web scraping by using json**
+5. **project - web scraping request headers-1**
+6. **project - web scraping request headers-2**
+7. **project - web scraping request headers-3**
