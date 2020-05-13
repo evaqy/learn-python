@@ -21,12 +21,12 @@ headers = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36"
 }
 for i in range(1,11): 
-    start_url = "https://www.guokr.com/ask/highlight/"
+    start_url = "https://www.guokr.com/ask/highlight/?page=%s"%i
     params = {
         "page":str(i)
     }
-    #print(start_url)
     response = requests.get(url=start_url, headers=headers,params=params)
+    #print(start_url)
     try:
         if response.status_code == 200:
             answer = BeautifulSoup(response.text, 'html.parser')
