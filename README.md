@@ -34,3 +34,5 @@
 7. **project - web scraping request headers-3**
 8. **project - save data to local file**
 9. **project - web scraping and save data to local file**
+10. **project - cookie**
+11. **project - session**
