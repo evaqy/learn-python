@@ -1,6 +1,5 @@
 # https://book.douban.com/top250
 # 豆瓣Top250图书一共有10页，每页有25本书籍。我们的初步目标是：先只爬取前三页书籍的信息，总共是 25 x 3 = 75 本，包含书名、出版信息和书籍评分。
-
 import scrapy
 import bs4
 from ..items import BookDoubanItem
