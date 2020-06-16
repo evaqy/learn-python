@@ -42,3 +42,4 @@
 15. **project - Scrapy Project 2**
 
 #### Data Analysis
+1. Series & DataFrame
