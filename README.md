@@ -43,3 +43,4 @@
 
 #### Data Analysis
 1. Series & DataFrame
+2. Sort Data with Series & DataFrame
