@@ -36,7 +36,7 @@
 9. web scraping and save data to local file
 10. cookie
 11. session
-12. selenium**
+12. selenium
 13. schedule and email scraped data
 14. Scrapy
 15. Scrapy Project 2
