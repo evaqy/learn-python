@@ -47,3 +47,4 @@
 3. Import CSV & Excel
 4. Drop Duplicates
 5. Concat & Merge Data
+6. Group Data
