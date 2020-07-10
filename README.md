@@ -50,3 +50,4 @@
 6. Group Data
 7. Sort Index
 8. Time
+9. Data Visualization
