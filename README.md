@@ -51,3 +51,6 @@
 7. Sort Index
 8. Time
 9. Data Visualization
+10. Matplotlib
+11. Use Different Charts
+12. Two Charts in One
