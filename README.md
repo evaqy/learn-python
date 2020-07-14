@@ -41,7 +41,7 @@
 14. Scrapy
 15. Scrapy Project 2
 
-#### Data Analysis
+#### Data Analysis & Data Visualization
 1. Series & DataFrame
 2. Sort Data with Series & DataFrame
 3. Import CSV & Excel
