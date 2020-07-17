@@ -55,3 +55,4 @@
 11. Use Different Charts
 12. Two Charts in One
 13. Seaborn
+14. Distplot,Kdeplot,Jointplot
