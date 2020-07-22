@@ -56,3 +56,5 @@
 12. Two Charts in One
 13. Seaborn
 14. Distplot,Kdeplot,Jointplot
+15. Data Cleaning & Data Visualization
+16. Final Project
